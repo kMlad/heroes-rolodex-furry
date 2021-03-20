@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heroes-rolodex-furry/static/css/main.0c012f62.chunk.css",
+    "main.js": "/heroes-rolodex-furry/static/js/main.285a70a5.chunk.js",
+    "main.js.map": "/heroes-rolodex-furry/static/js/main.285a70a5.chunk.js.map",
+    "runtime-main.js": "/heroes-rolodex-furry/static/js/runtime-main.112c67b5.js",
+    "runtime-main.js.map": "/heroes-rolodex-furry/static/js/runtime-main.112c67b5.js.map",
+    "static/js/2.5984422c.chunk.js": "/heroes-rolodex-furry/static/js/2.5984422c.chunk.js",
+    "static/js/2.5984422c.chunk.js.map": "/heroes-rolodex-furry/static/js/2.5984422c.chunk.js.map",
+    "static/js/3.45481973.chunk.js": "/heroes-rolodex-furry/static/js/3.45481973.chunk.js",
+    "static/js/3.45481973.chunk.js.map": "/heroes-rolodex-furry/static/js/3.45481973.chunk.js.map",
+    "index.html": "/heroes-rolodex-furry/index.html",
+    "static/css/main.0c012f62.chunk.css.map": "/heroes-rolodex-furry/static/css/main.0c012f62.chunk.css.map",
+    "static/js/2.5984422c.chunk.js.LICENSE.txt": "/heroes-rolodex-furry/static/js/2.5984422c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112c67b5.js",
+    "static/js/2.5984422c.chunk.js",
+    "static/css/main.0c012f62.chunk.css",
+    "static/js/main.285a70a5.chunk.js"
+  ]
+}
